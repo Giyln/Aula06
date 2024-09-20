@@ -1,0 +1,18 @@
+header{
+    background: linear-gradient(rgb(196, 44, 6), rgb(0, 0, 255));
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+
+}
+img{
+    border-radius:50px;
+}
+footer{
+    font-weight:bold;
+    background-color: bisque;
+}
+section{
+    background-color: blue;
+}
